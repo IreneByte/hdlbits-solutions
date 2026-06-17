@@ -1,22 +1,14 @@
 # HDLBits Verilog Solutions
-
 A collection of my personal solutions for the [HDLBits](https://hdlbits.01xz.net/) problem sets.
-
 HDLBits is an online platform for practicing digital logic design in Verilog.
-
-- **View My Progress:** [https://hdlbits.01xz.net/wiki/Special:VlgStats/Me]
-
----
+- **View My Progress:** [![HDLBits](https://img.shields.io/badge/View%20My%20Progress-HDLBits-blue?style=flat-square)](https://hdlbits.01xz.net/wiki/Special:VlgStats/Me)
 
 ## 🛠️ Repository Structure
-
 The solutions are organized to follow the official HDLBits syllabus structure:
 - `01-getting-started/` — Platform intro and basics
 - `02-verilog-language/` — Syntax, vectors, modules, procedures
 - `03-circuits/` — Combinational logic, sequential circuits, FSMs
 - `04-verification/` — Simulation waveforms and testbenches
-
----
 
 ## 📈 Progress Tracker
 There are **179** total exercises on the platform. Here is my current completion progress:
@@ -26,8 +18,6 @@ There are **179** total exercises on the platform. Here is my current completion
 - [ ] **Verification: Reading Simulations** (0 / 14)
 - [ ] **Verification: Writing Testbenches** (0 / 7)
 - [ ] **CS450** (0 / 2)
-
----
 
 ## What I'm Working On
 The main things I'm trying to get better at through these problems:
