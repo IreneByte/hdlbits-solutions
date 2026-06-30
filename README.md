@@ -12,7 +12,7 @@ The solutions are organized to follow the official HDLBits syllabus structure:
 ## Progress Tracker
 There are **179** total exercises on the platform. Here is my current completion progress:
 - [x] **Getting Started** (2 / 2)
-- [ ] **Verilog Language** (0 / 41)
+- [ ] **Verilog Language** (8 / 41)
 - [ ] **Circuits** (0 / 115)
 - [ ] **Verification: Reading Simulations** (0 / 14)
 - [ ] **Verification: Writing Testbenches** (0 / 7)
