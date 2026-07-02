@@ -13,10 +13,10 @@ The solutions are organized to follow the official HDLBits syllabus structure:
 There are **179** total exercises on the platform. Here is my current completion progress:
 - [x] **Getting Started** (2 / 2)
 - [x] **Verilog Language** (41 / 41)
-- [ ] **Circuits** (14 / 115)
-- [ ] **Verification: Reading Simulations** (0 / 14)
-- [ ] **Verification: Writing Testbenches** (0 / 7)
-- [ ] **CS450** (0 / 2)
+- [ ] **Circuits** (37 / 115)
+- [ ] **Verification: Reading Simulations** (9 / 15)
+- [ ] **Verification: Writing Testbenches** (0 / 5)
+- [ ] **CS450** (0 / 4)
 
 ## What I'm Working On
 The main things I'm trying to get better at through these problems:
