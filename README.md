@@ -10,13 +10,15 @@ The solutions are organized to follow the official HDLBits syllabus structure:
 - `04-verification/`: Simulation waveforms and testbenches
 
 ## Progress Tracker
-There are **179** total exercises on the platform. Here is my current completion progress:
+There are **182** total exercises on the platform. Here is my current completion progress:
 - [x] **Getting Started** (2 / 2)
 - [x] **Verilog Language** (41 / 41)
 - [ ] **Circuits** (37 / 115)
 - [ ] **Verification: Reading Simulations** (9 / 15)
 - [ ] **Verification: Writing Testbenches** (0 / 5)
 - [ ] **CS450** (0 / 4)
+
+**Total Progress** (89 / 182)
 
 ## What I'm Working On
 The main things I'm trying to get better at through these problems:
