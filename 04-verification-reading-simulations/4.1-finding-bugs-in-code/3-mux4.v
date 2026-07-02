@@ -1,0 +1,18 @@
+// Goal: Fix the bug(s) in the 4-to-1 multiplexer using 2-to-1 
+// multiplexers.
+
+module top_module (
+    input [1:0] sel,
+    input [7:0] a,
+    input [7:0] b,
+    input [7:0] c,
+    input [7:0] d,
+    output [7:0] out  ); 
+
+    wire [7:0] mux0, mux1;
+    
+    mux2 m0 (sel[0], a, b, mux0);
+    mux2 m1 (sel[0], c, d, mux1);
+    mux2 m2 (sel[1], mux0, mux1, out);
+
+endmodule
