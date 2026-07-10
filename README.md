@@ -18,7 +18,7 @@ There are **182** total exercises on the platform. Here is my current completion
 - [ ] **Verification: Writing Testbenches** (0 / 5)
 - [ ] **CS450** (0 / 4)
 
-**Total Progress** (89 / 182)
+**Total Progress** (121 / 182)
 
 ## What I'm Working On
 The main things I'm trying to get better at through these problems:
