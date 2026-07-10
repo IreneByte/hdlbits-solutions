@@ -1,4 +1,4 @@
-// Goal: Compute whether signed overflow has occured during addition.
+// Goal: Compute whether signed overflow has occured from addition.
 
 module top_module (
     input [7:0] a,
